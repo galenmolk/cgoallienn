@@ -1,0 +1,16 @@
+#HeaderText
+{
+	border: 5px solid #F1DDBF;
+	color: #F1DDBF;
+	font-family: verdana;
+	margin: auto;
+	margin-top: 50px;
+	padding: 5px;
+	text-align: center;
+	width: 200px;
+}
+
+body 
+{
+	background-color: #525E75;
+}
