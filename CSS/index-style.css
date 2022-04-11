@@ -10,7 +10,13 @@
 	width: 200px;
 }
 
-body 
+body
 {
 	background-color: #525E75;
+}
+
+.button
+{
+	font-family: verdana;
+	color: #228B22
 }
